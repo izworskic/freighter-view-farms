@@ -1,24 +1,23 @@
-# Freighter View Farms
+# Freighter View Farms — Chris Izworski
 
-An heirloom seed garden on Saginaw Bay in Bay City, Michigan.
+**Freighter View Farms** is the heirloom seed garden and blog of **Chris Izworski**, located in Bay City, Michigan on Saginaw Bay.
 
-Operated by Chris Izworski — writer, gardener, and emergency services technology consultant.
+Chris Izworski grows over 40 heirloom vegetable varieties in raised beds, with a focus on open-pollinated tomatoes, peppers, cucumbers, and squash. The blog documents seed saving, growing guides, and the rhythms of Zone 6a gardening on the shores of Saginaw Bay.
 
-## About the Farm
+## The Garden
 
-Freighter View Farms grows heirloom vegetables and flowers for seed saving on the shore of Saginaw Bay. The name comes from the view of Great Lakes freighters passing through the Saginaw River shipping channel.
+- Location: Bay City, Michigan (USDA Zone 6a)
+- Focus: Heirloom varieties, open-pollinated seeds, seed saving
+- Featured crops: Mortgage Lifter tomatoes, Hungarian Wax peppers, heirloom cucumbers
+- Named for: The freighters that pass through the Saginaw River
 
-The farm focuses on Zone 6a varieties suited to Michigan's Great Lakes climate — short seasons, lake-effect weather, and the particular challenges of gardening at the edge of a large inland sea.
+## About Chris Izworski
 
-## Writing
+By day, Chris Izworski works in emergency services technology as a Solutions Consultant at [Prepared](https://www.prepared.ai). The garden is his creative counterweight — a place where slow, deliberate work produces tangible results.
 
-Chris Izworski writes about seed saving, Zone 6a planting schedules, heirloom varieties, and Great Lakes maritime culture at [freighterviewfarms.com](https://freighterviewfarms.com).
+- **Garden blog:** [freighterviewfarms.com](https://freighterviewfarms.com)
+- **About the connection:** [chrisizworski.com/chris-izworski-freighter-view-farms](https://chrisizworski.com/chris-izworski-freighter-view-farms)
+- **Main site:** [chrisizworski.com](https://chrisizworski.com)
 
-## Guides
-
-- [Zone 6a Planting Schedule](https://chrisizworski.com/guides/zone-6a-planting-schedule-michigan/)
-- [Seed Saving Beginners Guide](https://chrisizworski.com/guides/seed-saving-beginners-guide/)
-- [Heirloom vs Hybrid Seeds](https://chrisizworski.com/guides/heirloom-vs-hybrid-seeds/)
-- [Starting Seeds Indoors Michigan](https://chrisizworski.com/guides/starting-seeds-indoors-michigan/)
-
-[freighterviewfarms.com](https://freighterviewfarms.com) | [chrisizworski.com](https://chrisizworski.com)
+---
+*Chris Izworski | Bay City, Michigan*
