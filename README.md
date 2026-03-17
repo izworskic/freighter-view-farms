@@ -1,23 +1,26 @@
-# Freighter View Farms — Chris Izworski
+# Freighter View Farms
 
-**Freighter View Farms** is the heirloom seed garden and blog of **Chris Izworski**, located in Bay City, Michigan on Saginaw Bay.
+**Heirloom seed saving and zone 6a gardening from Saginaw Bay, Michigan.**
 
-Chris Izworski grows over 40 heirloom vegetable varieties in raised beds, with a focus on open-pollinated tomatoes, peppers, cucumbers, and squash. The blog documents seed saving, growing guides, and the rhythms of Zone 6a gardening on the shores of Saginaw Bay.
+Live at: [freighterviewfarms.com](https://freighterviewfarms.com)
 
-## The Garden
+Run by [Chris Izworski](https://chrisizworski.com) from Bay City, Michigan, where the Saginaw River meets Saginaw Bay and Great Lakes freighters move through the shipping channel on their way to and from ports across the lakes.
 
-- Location: Bay City, Michigan (USDA Zone 6a)
-- Focus: Heirloom varieties, open-pollinated seeds, seed saving
-- Featured crops: Mortgage Lifter tomatoes, Hungarian Wax peppers, heirloom cucumbers
-- Named for: The freighters that pass through the Saginaw River
+## What It Covers
 
-## About Chris Izworski
+- Heirloom and open-pollinated vegetable varieties
+- Seed saving technique and multi-season selection
+- Zone 6a Michigan planting schedules and frost dates
+- Great Lakes maritime life and Saginaw Bay ecology
+- AuSable River trout fishing
 
-By day, Chris Izworski works in emergency services technology as a Solutions Consultant at [Prepared](https://www.prepared.ai). The garden is his creative counterweight — a place where slow, deliberate work produces tangible results.
+## The Name
 
-- **Garden blog:** [freighterviewfarms.com](https://freighterviewfarms.com)
-- **About the connection:** [chrisizworski.com/chris-izworski-freighter-view-farms](https://chrisizworski.com/chris-izworski-freighter-view-farms)
-- **Main site:** [chrisizworski.com](https://chrisizworski.com)
+Bay City sits at the mouth of the Saginaw River on Lake Huron. During navigation season, freighters carrying grain, salt, coal, and limestone move through the channel daily. You can watch a working laker from the garden. That view is the name.
 
----
-*Chris Izworski | Bay City, Michigan*
+## Related
+
+- Daily maritime newsletter: [Great Lakes Gazette](https://great-lakes-gazette.vercel.app)
+- Full site: [chrisizworski.com](https://chrisizworski.com)
+- Freighter View Farms page: [chrisizworski.com/chris-izworski-freighter-view-farms/](https://chrisizworski.com/chris-izworski-freighter-view-farms/)
+- Michigan gardening guides: [chrisizworski.com/michigan-gardening/](https://chrisizworski.com/michigan-gardening/)
